@@ -1,0 +1,11 @@
+Metric,Value
+Total_Days_Analyzed,479
+Date_Range,2023-05-01 00:00:00 to 2025-05-01 00:00:00
+Total_Trading_Volume,1191098773.6000001
+Total_PnL,10254486.98
+Total_Trades,211218
+Sentiment_Categories,5
+Best_Performing_Sentiment,Extreme Fear
+Highest_Volume_Sentiment,Extreme Fear
+Most_Volatile_Sentiment,Extreme Fear
+Best_Risk_Adjusted_Sentiment,Extreme Fear
